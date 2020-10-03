@@ -14,5 +14,13 @@ margin: auto;
     transition: fill 0.3s;
 }
 .mapdiv :hover{
-    fill: black;
+    fill: #8e8b66;
+}
+#tooltip {
+    position: relative;
+    display: inline-block;
+    background: black;
+    border: 1px solid black;
+    padding: 5px;
+    font-size:15px;color:#fff;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;  
 }
