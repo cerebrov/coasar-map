@@ -19,8 +19,36 @@ margin: auto;
 #tooltip {
     position: relative;
     display: inline-block;
-    background: black;
+     background: black;
     border: 1px solid black;
     padding: 5px;
     font-size:15px;color:#fff;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;  
+}
+#tooltip2 {
+    position: relative;
+    display: inline-block;
+     background: black;
+    border: 1px solid black;
+    padding: 5px;
+    font-size:15px;color:#fff;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;  
+}
+
+th,
+td,
+p,
+input {
+  font: 14px Verdana;
+}
+
+table,
+th,
+td {
+  border: solid 1px #DDD;
+  border-collapse: collapse;
+  padding: 2px 3px;
+  text-align: center;
+}
+
+th {
+  font-weight: bold;
 }
