@@ -1,54 +1,35 @@
 body {
-    background-color: white;
+  background-color: white;
 }
 
 .mapdiv{
- width: 100%;
+width: 100%;
 margin: auto;
 }
 
 .mapdiv path {
-    fill: palegoldenrod;
-    stroke: gray;
-    stroke-width: 0.5px;
-    transition: fill 0.3s;
+  fill: #e0e0e0;
+  stroke: gray;
+  stroke-width: 1px;
+  transition: fill 0.3s;
 }
 .mapdiv :hover{
-    fill: #8e8b66;
+  fill: #8e8b66;
 }
 #tooltip {
-    position: relative;
-    display: inline-block;
-     background: black;
-    border: 1px solid black;
-    padding: 5px;
-    font-size:15px;color:#fff;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;  
+  position: relative;
+  display: flex;
+   background: black;
+  border: 2px solid black;
+  padding: 5px;
+  font-size:12px;color:#fff;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;  
 }
 #tooltip2 {
-    position: relative;
-    display: inline-block;
-     background: black;
-    border: 1px solid black;
-    padding: 5px;
-    font-size:15px;color:#fff;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;  
+  position: relative;
+  display: flex;
+   background: black;
+  border: 1px solid black;
+  padding: 5px;
+  font-size:12px;color:#fff;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;  
 }
 
-th,
-td,
-p,
-input {
-  font: 14px Verdana;
-}
-
-table,
-th,
-td {
-  border: solid 1px #DDD;
-  border-collapse: collapse;
-  padding: 2px 3px;
-  text-align: center;
-}
-
-th {
-  font-weight: bold;
-}
