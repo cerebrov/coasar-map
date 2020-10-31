@@ -1,4 +1,4 @@
-# Refugee-Map (Map component of ![Refugee-Analyze](https://github.com/cerebrov/refugee-analyze) )
+# Coasar-Map (Map component of ![COASAR](https://github.com/cerebrov/refugee-analyze) )
 ### http://cerebro.orgfree.com/
 ![](https://raw.githubusercontent.com/cerebrov/refugee-analyze/master/gif/ezgif.com-video-to-gif.gif)
 ![](https://user-images.githubusercontent.com/56802853/96052506-6520ff80-0e86-11eb-9fac-4b1339742ca6.PNG)
